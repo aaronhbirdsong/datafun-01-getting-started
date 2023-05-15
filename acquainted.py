@@ -42,17 +42,17 @@ logger,logname = setup_logger(__file__)
 # Try some string, integer, float, and boolean (True/False) variables
 # TODO: Customize these by changing the values 
 
-name = "John Doe"
-state = "California"
+name = Aaron Birdsong
+state = Missouri
 country = "USA"
 
-pet_count = 1
-skill_count = 24
+pet_count = 3
+skill_count = 25
 
-temperature_f = 81.5
-pet_weight_lbs = 12.5
+temperature_f = 72
+pet_weight_lbs = 24.7
 
-has_dog = False
+has_dog = True
 likes_analytics = True
 likes_python = True
 
@@ -79,3 +79,6 @@ logger.info(f"Likes Python: {likes_python}")
 # Use built-in open() function to read log file and print it to the terminal
 with open(logname, 'r') as file_wrapper:
     print(file_wrapper.read())
+
+
+
