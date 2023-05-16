@@ -42,8 +42,8 @@ logger,logname = setup_logger(__file__)
 # Try some string, integer, float, and boolean (True/False) variables
 # TODO: Customize these by changing the values 
 
-name = Aaron Birdsong
-state = Missouri
+name = "Aaron Birdsong"
+state = "Missouri"
 country = "USA"
 
 pet_count = 3

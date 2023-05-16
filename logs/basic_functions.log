@@ -1,0 +1,19 @@
+2023-05-16 09:31:44,737 =============================================================
+2023-05-16 09:31:44,737 =============================================================
+2023-05-16 09:31:44,737 Today is 2023-05-16 at 09:31 AM
+2023-05-16 09:31:44,772 This file is running on: nt Windows 10
+2023-05-16 09:31:44,772 The Python version is: 3.11.3
+2023-05-16 09:31:44,772 The active conda environment is:  None
+2023-05-16 09:31:44,772 The active pip environment is:    None
+2023-05-16 09:31:44,772 The active environment path is:   C:\Users\aaron\AppData\Local\Programs\Python\Python311
+2023-05-16 09:31:44,772 The current working directory is: C:\Users\aaron\OneDrive\Documents\datafun-01-getting-started
+2023-05-16 09:31:44,772 This source file is in:           c:\Users\aaron\OneDrive\Documents\datafun-01-getting-started
+2023-05-16 09:31:44,772 =============================================================
+2023-05-16 09:31:44,772 =============================================================
+2023-05-16 09:31:44,772 Functions url = https://docs.python.org/3/library/functions.html
+2023-05-16 09:31:44,772 number_list = [1, 2, 3, 4, 5]
+2023-05-16 09:31:44,772 len(number_list) = 5
+2023-05-16 09:31:44,772 min(number_list) = 1
+2023-05-16 09:31:44,772 max(number_list) = 5
+2023-05-16 09:31:51,677 message = Aaron Birdsong Aaron birdsong!
+2023-05-16 09:31:53,034 response = y

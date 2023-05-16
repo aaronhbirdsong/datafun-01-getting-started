@@ -61,9 +61,9 @@ string2 = input(10)
 string3 = input(15)
 
 # Assuming these are your three values
-a = 10
-b = 20
-c = 30
+a = 5
+b = 10
+c = 15
 
 # Calculate the needed values
 _sum = a + b + c
@@ -80,9 +80,9 @@ print(f"The smallest value is {_minimum}")
 print(f"The largest value is {_maximum}")
 
 In [7]: # Assuming these are your three values
-   ...: a = 10
-   ...: b = 20
-   ...: c = 30
+   ...: a = 5
+   ...: b = 10
+   ...: c = 15
    ...:
    ...: # Calculate the needed values
    ...: _sum = a + b + c

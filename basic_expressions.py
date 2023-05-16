@@ -30,12 +30,12 @@ logger,logname = setup_logger(__file__)
 # Declare some variables 
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables and calculate the area of a rectangle ()
-triangle_base = 10
-triangle_height = 5
+triangle_base = 20
+triangle_height = 10
 i = 50
 j = 20
-a = 1.1
-b = 2.2
+a = 15
+b = 30
 c = 3.3
 
 # Try some operators (multiply, divide, add, subtract)

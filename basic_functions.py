@@ -62,7 +62,7 @@ print("Greetings!")
 name = input("What's your name? (type your name and hit enter):")
 
 # use what you got (their name) to print a greeting
-message = "Hello " + name.capitalize() + "!"
+message = "Aaron Birdsong " + name.capitalize() + "!"
 print(message)
 print()
 logger.info(f"message = {message}")
